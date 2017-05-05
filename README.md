@@ -1,7 +1,7 @@
-Grid Garden
+Grid Garden - No Hints
 =======
 
-Grid Garden is a game for learning CSS grid layout. Check it out at [cssgridgarden.com](http://cssgridgarden.com).
+Grid Garden - No Hints is a game for learning CSS grid layout. Check it out at [christianrubiales.com/gridgarden-no-hints/](http://christianrubiales.com/gridgarden-no-hints/).
 
 ![Grid Garden screenshot](./images/screenshot.png)
 
@@ -11,7 +11,7 @@ Grid Garden is a game for learning CSS grid layout. Check it out at [cssgridgard
 | :---------: | :---------:| :---------: | :---------: | :---------: |
 | IE11, Edge | 52+ | 57+ | 10.1+ | 44+
 
-## Author
+## Original Author
 
 Thomas Park
 
